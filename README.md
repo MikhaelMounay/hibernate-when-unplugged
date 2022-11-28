@@ -1,2 +1,5 @@
-# hibernate-when-unplugged
-An adjustable Python script to hibernate that laptop after a specified duration of unplugging the charger.
+# Unplugged Script
+An adjustable **Python** script to hibernate the laptop after a specified duration of unplugging its charger.
+
+To run this script without Python installed download the *EXE* version and extract it inside the `startup` folder.
+`C:\Users\{user-name}\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\`
